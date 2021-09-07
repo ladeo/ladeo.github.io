@@ -95,7 +95,7 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : 2783234042
+    tracking_id          : G-KP49M70MPT
     anonymize_ip         : true
 
 
