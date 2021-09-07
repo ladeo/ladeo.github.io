@@ -95,7 +95,7 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-KP49M70MPT
+    tracking_id          : UA-206867272-1
     anonymize_ip         : true
 
 
